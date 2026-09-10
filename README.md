@@ -19,6 +19,7 @@ Formación técnica en seguridad informática, con foco en detección y respuest
 `Wazuh` `Velociraptor (EDR)` `Linux` `Python` `Bash` `Redes` `Honeypots` `VMware` `Análisis de logs`
 
 ## 🔎 Proyectos destacados
+- **Auditoría de seguridad ISO 27001 — Consultorio médico** — Auditoría real (ad honorem) a un consultorio médico: relevamiento de 33 controles bajo el Anexo A de ISO/IEC 27001:2022 y normativa argentina de protección de datos en salud (Ley 25.326 y Ley 26.529), con matriz de riesgo, radar de madurez y plan de acción priorizado. Incluye modelo de acuerdo de confidencialidad. [Ver repo](https://github.com/GasparPeralta0/auditoria-consultorio)
 
 - **Lab de detección con SIEM (Wazuh)** — Implementación de un SIEM en entorno virtualizado, configuración de reglas de correlación y análisis de alertas. [Ver repo](https://github.com/GasparPeralta0/lab-siem-wazuh)
 - **Lab de respuesta con EDR (Velociraptor)** — Despliegue de un EDR para detección de actividad sospechosa y análisis forense de artefactos. [Ver repo](https://github.com/GasparPeralta0/lab-edr-velociraptor)
